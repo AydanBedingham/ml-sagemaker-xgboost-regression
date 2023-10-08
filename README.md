@@ -1,4 +1,4 @@
-# SageMaker XG-Boost
+# SageMaker XG-Boost Regression
 Jupyter Notebook that uses SageMaker to train an XG-Boost machine learning model. Trains a XG-Boost regression model to predict life expectancy using built-in SageMaker Algorithms. This data was initially obtained from World Health Organization (WHO) and United Nations Website. Data contains features like year, status, life expectancy, adult mortality, infant deaths, percentage of expenditure, alcohol etc.
 
 - Tasks:
@@ -17,4 +17,4 @@ Jupyter Notebook that uses SageMaker to train an XG-Boost machine learning model
     - HEPATITIS B
 
 - Outputs:
-    - Life Expectancy
+    - Life Expectancy (Years)
